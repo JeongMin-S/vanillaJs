@@ -1,7 +1,3 @@
-h1 {
-  color: skyblue;
-}
-
-.clicked {
-  color: tomato;
+.hidden {
+  display: none;
 }
